@@ -1,0 +1,10 @@
+Package:  ptproc 
+Version:  1.5-1
+Date:  2007-03-19
+Depends:  R (>= 2.4.1), stats
+Title:  Multi-dimensional Point Process Models 
+Author:  Roger D. Peng <rpeng@jhsph.edu> 
+Maintainer:  Roger D. Peng <rpeng@jhsph.edu> 
+Description:  Tools for analyzing multi-dimensional point process models.  The package is based in part on the point process portion of the Statistical Seismology Library (SSLib) of Harte, et al.  Those who are interested in seismological applications are encouraged to look at SSLib because of its many other useful functions related to earthquake analysis. 
+License:  GNU GPL (version 2 or later)
+Packaged: Mon Mar 19 11:07:32 2007; rpeng
